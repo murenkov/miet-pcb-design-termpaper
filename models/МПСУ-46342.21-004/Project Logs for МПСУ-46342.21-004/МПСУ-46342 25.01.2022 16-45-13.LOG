@@ -1,0 +1,129 @@
+Removed Pin From Net: NetName=GND Pin=C14-1
+Removed Pin From Net: NetName=GND Pin=C14-2
+Removed Pin From Net: NetName=GND Pin=C24-1
+Removed Pin From Net: NetName=+5V 5deg Pin=C24-2
+Removed Pin From Net: NetName=+5V 11deg Pin=C25-2
+Removed Pin From Net: NetName=GND Pin=C26-1
+Removed Pin From Net: NetName=+5V 5deg Pin=C26-2
+Removed Pin From Net: NetName=GND Pin=C27-1
+Removed Pin From Net: NetName=+5V 22deg Pin=C27-2
+Removed Pin From Net: NetName=GND Pin=C28-1
+Removed Pin From Net: NetName=+5V 45deg Pin=C28-2
+Removed Pin From Net: NetName=GND Pin=C29-1
+Removed Pin From Net: NetName=+5V 11deg Pin=C29-2
+Removed Pin From Net: NetName=GND Pin=C30-1
+Removed Pin From Net: NetName=+5V 90deg Pin=C30-2
+Removed Pin From Net: NetName=GND Pin=C31-1
+Removed Pin From Net: NetName=+5V 22deg Pin=C31-2
+Removed Pin From Net: NetName=GND Pin=C32-1
+Removed Pin From Net: NetName=+5V 180deg Pin=C32-2
+Removed Pin From Net: NetName=GND Pin=C33-1
+Removed Pin From Net: NetName=+5V 45deg Pin=C33-2
+Removed Pin From Net: NetName=GND Pin=C34-1
+Removed Pin From Net: NetName=+5V REF Pin=C34-2
+Removed Pin From Net: NetName=GND Pin=C35-1
+Removed Pin From Net: NetName=+5V 90deg Pin=C35-2
+Removed Pin From Net: NetName=GND Pin=C36-1
+Removed Pin From Net: NetName=+5V 180deg Pin=C36-2
+Removed Member From Class: ClassName=ÌÏÑÓ-46342.21-004 Ý3 Ëèñò3 Member=C14
+Removed Member From Class: ClassName=ÌÏÑÓ-46342.21-004 Ý3 Ëèñò4 Member=C24
+Removed Member From Class: ClassName=ÌÏÑÓ-46342.21-004 Ý3 Ëèñò4 Member=C26
+Removed Member From Class: ClassName=ÌÏÑÓ-46342.21-004 Ý3 Ëèñò4 Member=C27
+Removed Member From Class: ClassName=ÌÏÑÓ-46342.21-004 Ý3 Ëèñò4 Member=C28
+Removed Member From Class: ClassName=ÌÏÑÓ-46342.21-004 Ý3 Ëèñò4 Member=C29
+Removed Member From Class: ClassName=ÌÏÑÓ-46342.21-004 Ý3 Ëèñò4 Member=C30
+Removed Member From Class: ClassName=ÌÏÑÓ-46342.21-004 Ý3 Ëèñò4 Member=C31
+Removed Member From Class: ClassName=ÌÏÑÓ-46342.21-004 Ý3 Ëèñò4 Member=C32
+Removed Member From Class: ClassName=ÌÏÑÓ-46342.21-004 Ý3 Ëèñò4 Member=C33
+Removed Member From Class: ClassName=ÌÏÑÓ-46342.21-004 Ý3 Ëèñò4 Member=C34
+Removed Member From Class: ClassName=ÌÏÑÓ-46342.21-004 Ý3 Ëèñò4 Member=C35
+Removed Member From Class: ClassName=ÌÏÑÓ-46342.21-004 Ý3 Ëèñò4 Member=C36
+Change component parameters: Designator = "C1"; Footprint = "CAPC160X80X90L30N"; UniqueID = "\ZNAAIAVX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7 uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VDC"; Value = "20 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13"; Footprint = "CAPC160X80X90L30N"; UniqueID = "\OUYNFJEN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2 uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VDC"; Value = "20 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C17"; Footprint = "CAPC160X80X90L30N"; UniqueID = "\UJOVNWTG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2 uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VDC"; Value = "20 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C20"; Footprint = "CAPC160X80X90L30N"; UniqueID = "\DRHHWYGQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2 uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VDC"; Value = "20 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C23"; Footprint = "CAPC160X80X90L30N"; UniqueID = "\JULKLJHK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2 uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VDC"; Value = "20 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3"; Footprint = "CAPC100X50X55L20N"; UniqueID = "\EDPBSCKE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.01 nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VDC"; Value = "20 V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4"; Footprint = "CAPC100X50X55L20N"; UniqueID = "\PRBXNVNH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.01 nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VDC"; Value = "20 V"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAPC100X50X55L20N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1000 pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VDC"; Value = "20 V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=+5V REF Pin=C25-2
+Added Net: Name=+5V 5deg PS1
+Added Net: Name=+5V 5deg PS2
+Added Net: Name=+5V 11deg PS1
+Added Net: Name=+5V 11deg PS2
+Added Net: Name=+5V 22deg PS1
+Added Net: Name=+5V 22deg PS2
+Added Net: Name=+5V 45deg PS1
+Added Net: Name=+5V 45deg PS2
+Added Net: Name=+5V 90deg PS1
+Added Net: Name=+5V 90deg PS2
+Added Net: Name=+5V 180deg PS1
+Added Net: Name=+5V 180deg PS2
+Added Net: Name=UART
+Added Member To Class: ClassName=ÌÏÑÓ-46342.21-004 Ý3 Ëèñò3 Member=Component C10 100 pF
