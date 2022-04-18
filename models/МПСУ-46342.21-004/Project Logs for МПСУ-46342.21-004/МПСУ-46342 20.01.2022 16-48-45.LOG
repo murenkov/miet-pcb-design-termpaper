@@ -1,8 +1,0 @@
-Removed Member From Class: ClassName=RF Member=NetW1_1
-Removed Member From Class: ClassName=RF Member=NetW2_1
-Removed Member From Class: ClassName=RF Member=RF1
-Removed Member From Class: ClassName=RF Member=RF2
-Change Net Name : Old Net Name=RF1 New Net Name=PS RF IN
-Change Net Name : Old Net Name=RF2 New Net Name=PS RF OUT
-Added Member To Class: ClassName=RF Member=Wire PS RF IN
-Added Member To Class: ClassName=RF Member=Wire PS RF OUT
